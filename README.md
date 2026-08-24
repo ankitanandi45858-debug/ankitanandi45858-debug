@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="GitHub Banner">
+</div>
 ## 👩‍💻 About Me
 
 Hi! I'm **Ankita Nandi**, an AIML Engineering Student passionate about
