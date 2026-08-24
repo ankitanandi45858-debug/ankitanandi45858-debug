@@ -1,19 +1,68 @@
-<div align="center">
-  <img src="./github-banner.png.jpeg" width="100%" alt="Ankita Nandi GitHub Banner">
-</div>
-## Hi there 👋
+## 👩‍💻 About Me
 
-<!--
-**ankitanandi45858-debug/ankitanandi45858-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Ankita Nandi**, an AIML Engineering Student passionate about
+Artificial Intelligence, Machine Learning, Web Development, and IoT.
 
-Here are some ideas to get you started:
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Learning Python and C programming
+- 🌐 Building with HTML & CSS
+- 🔌 Working with Arduino & Embedded Systems
+- 🚀 Turning ideas into real-world projects
+- 📚 Always learning. Always building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,arduino,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 AI & Machine Learning projects
+- 🌐 Web development projects
+- 🔌 Arduino & IoT experiments
+- 💡 Beginner-friendly programming projects
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🤖 AI Project | Coming soon |
+| 🌐 Web Project | Coming soon |
+| 🔌 Arduino Project | Coming soon |
+
+---
+
+## 🌱 Currently Learning
+
+`Python` • `C` • `AI` • `Machine Learning` • `HTML` • `CSS` • `IoT`
+
+---
+
+## 💫 My Goal
+
+> **Learn → Build → Improve → Innovate 🚀**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ankitanandi45858-debug">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
