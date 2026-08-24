@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./github-banner.png.jpeg" width="100%" alt="Ankita Nandi GitHub Banner">
+</div>
 ## Hi there 👋
 
 <!--
