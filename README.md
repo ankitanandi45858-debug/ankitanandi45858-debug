@@ -49,11 +49,9 @@ Hi! I'm **Ankita Nandi**, an AIML Engineering Student passionate about Artificia
 ---
 
 ## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitanandi45858-debug/Ankitaaa/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ankitanandi45858-debug/Ankitaaa/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-
 ---
 
 ## 💫 My Goal
