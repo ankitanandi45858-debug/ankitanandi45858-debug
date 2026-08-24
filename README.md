@@ -52,6 +52,9 @@ Artificial Intelligence, Machine Learning, Web Development, and IoT.
 `Python` • `C` • `AI` • `Machine Learning` • `HTML` • `CSS` • `IoT`
 
 ---
+# Ankitaaa
+
+![Github Snake](https://raw.githubusercontent.com/ankitanandi45858-debug/Ankitaaa/output/github-snake.svg)
 
 ## 💫 My Goal
 
