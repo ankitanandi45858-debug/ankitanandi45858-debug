@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="github-banner.png.jpeg" width="100%" alt="github-banner.png.jpeg">
+  <img src="github-banner.png.jpeg" width="100%" alt="GitHub Banner">
 </div>
-
-
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Ankita Nandi**, an AIML Engineering Student passionate about
-Artificial Intelligence, Machine Learning, Web Development, and IoT.
+Hi! I'm **Ankita Nandi**, an AIML Engineering Student passionate about Artificial Intelligence, Machine Learning, Web Development, and IoT.
 
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🐍 Learning Python and C programming
@@ -21,9 +18,7 @@ Artificial Intelligence, Machine Learning, Web Development, and IoT.
 ## 🛠️ Skills & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,arduino,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,arduino,github,vscode" />
 </p>
 
 ---
@@ -52,7 +47,14 @@ Artificial Intelligence, Machine Learning, Web Development, and IoT.
 `Python` • `C` • `AI` • `Machine Learning` • `HTML` • `CSS` • `IoT`
 
 ---
-![Github Snake](https://raw.githubusercontent.com/ankitanandi45858-debug/Ankitaaa/output/github-snake.svg)
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ankitanandi45858-debug/Ankitaaa/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
 
 ## 💫 My Goal
 
